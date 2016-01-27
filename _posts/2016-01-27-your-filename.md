@@ -4,6 +4,7 @@ layout: post
 ---
 
 
+![bulltrout.jpg]({{site.baseurl}}/_posts/bulltrout.jpg)
 
 ## A New Post
 
