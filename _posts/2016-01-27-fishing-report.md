@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title:"Bulltrout picture"
 date: 2016-01-27 6:05:00
 categories: "fishing report"
